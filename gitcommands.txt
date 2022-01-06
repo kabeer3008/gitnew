@@ -8,7 +8,11 @@ git rm
 git mv
 git push
 git pull
-
+1
+2
+3
+4
+5
 
 
 
