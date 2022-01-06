@@ -9,3 +9,20 @@ git mv
 git push
 git pull
 
+
+
+
+
+
+
+
+git branch
+git branch -all
+git checkout
+cat
+git fetch
+git merge
+git stash
+git reset --hard
+git status list
+
